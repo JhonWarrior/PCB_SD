@@ -1,2 +1,2 @@
 # PCB_SD
-A repository to document my process on the PCB for the course "Experimental rocketry"
+Repositorio para subir mi progreso en Altium Designer, con cada etapa documentada mediante commits.
