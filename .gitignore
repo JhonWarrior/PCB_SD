@@ -1,0 +1,32 @@
+# --- Directorios de caché e historial local de Altium ---
+__Previews/
+History/
+*.SchDocPreview
+*.PcbDocPreview
+
+# --- Directorios de logs y salidas generadas ---
+Project Logs*
+Project Outputs*
+Project\\ Outputs\\ for*
+*\\Logs\\
+*\\Outputs\\
+
+# --- Archivos temporales y de bloqueo ---
+.~lock.*
+*~$*
+*.~([0-9]*)
+*.$$$
+*.bak
+
+# --- Reportes y archivos de depuración ---
+debug.log
+*.log
+*.REP
+*.TLT
+*.Dat
+Status Report.txt
+*.PcbDoc.htm
+
+# --- Otros archivos temporales de usuario ---
+*.PrjPCBStructure
+*.user
