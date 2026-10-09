@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Altium_PCB_SD.PrjPcb]
+   Generated File[Altium_PCB_SD.GTP]
+   Generated File[Altium_PCB_SD.GTL]
+   Generated File[Altium_PCB_SD.GBL]
+   Generated File[Altium_PCB_SD.GBP]
+   Generated File[Altium_PCB_SD.GM]
+   Generated File[Altium_PCB_SD.EXTREP]
+   Generated File[Altium_PCB_SD.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 12:52:11 On 30/09/2026
