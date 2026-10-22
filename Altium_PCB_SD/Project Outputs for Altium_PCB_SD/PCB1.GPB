@@ -3,11 +3,11 @@ G04 Layer_Color=255*
 G04 Board_Origin=0|0*
 %FSLAX45Y45*%
 %MOMM*%
-%TF.SameCoordinates,32236FE3-6550-40AF-B152-B195881BBD51*%
+%TF.SameCoordinates,CFD349ED-FEB6-4A52-9CD4-0BFB2E56C9CC*%
 %TF.FilePolarity,Positive*%
 %TF.FileFunction,Pads,Bot*%
 %TF.Part,Single*%
 G01*
 G75*
-%TF.MD5,20b25fce18fc77aa1005abd6e665a161*%
+%TF.MD5,26cbf04541410d2a0e3c258251e42025*%
 M02*
