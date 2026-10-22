@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=COOMVTWE
 
 [Document2]
-DocumentPath=Altium_PCB_SD.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WEJUMKTQ
-
-[Document3]
 DocumentPath=Components\DCJ200-10-A-K1-K\DCJ200-10-A-K1-K.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POFHZOUR
 
-[Document4]
+[Document3]
 DocumentPath=Components\ESP32-C3-DEVKITM-1\ESP32-C3-DEVKITM-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJRMTURS
 
-[Document5]
+[Document4]
 DocumentPath=Altium_PCB_SD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUDTZWOH
 
-[Document6]
+[Document5]
 DocumentPath=Altium_PCB_SD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOKTJLNY
 
-[Document7]
+[Document6]
 DocumentPath=Components\DCJ200-10-A-K1-K\DCJ20010AK1K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKHUDMAE
 
-[Document8]
+[Document7]
 DocumentPath=Components\ESP32-C3-DEVKITM-1\XCVR_ESP32-C3-DEVKITM-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNTSBYVX
 
-[Document9]
+[Document8]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CMCAFQYF
+DocumentUniqueId=POSUOVMF
 
 [Configuration1]
 Name=Sources
